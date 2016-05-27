@@ -19,6 +19,10 @@
     // Do any additional setup after loading the view, typically from a nib.
     
     NSLog(@"Inside trial2");
+    //
+    
+    NSLog(@"Inside trial1");
+    
 }
 
 - (void)didReceiveMemoryWarning {
