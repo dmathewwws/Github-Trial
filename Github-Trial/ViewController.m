@@ -17,6 +17,10 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
+    //
+    
+    NSLog(@"Inside trial1");
+    
 }
 
 - (void)didReceiveMemoryWarning {
